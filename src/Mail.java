@@ -21,7 +21,7 @@ public class Mail {
     }
 
     public void setRecipient(String recipient) {
-        this.sender = sender;
+        this.recipient = recipient;
     }
 
     public String getSubject() {
